@@ -14,3 +14,6 @@ PPC603gnu
 .wrproject
 .cproject
 .project
+.vcxproj
+.vcxproj.filters
+.vcxproj.user
